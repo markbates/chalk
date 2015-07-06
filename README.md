@@ -1,4 +1,4 @@
-# github.com/markbates/going/chalk [![Build Status](https://travis-ci.org/markbates/chalk.svg)](https://travis-ci.org/markbates/chalk)[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/markbates/chalk) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/markbates/chalk/master/LICENSE)
+# Chalk [![Build Status](https://travis-ci.org/markbates/chalk.svg)](https://travis-ci.org/markbates/chalk)[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/markbates/chalk) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/markbates/chalk/master/LICENSE)
 
 Quickly and easily create a pool of `go routines`. Create as many "queues" as you want, each with their own number of `go routines` ready to do your bidding.
 

@@ -1,4 +1,4 @@
-# github.com/markbates/going/chalk
+# github.com/markbates/going/chalk [![Build Status](https://travis-ci.org/markbates/chalk.svg)](https://travis-ci.org/markbates/chalk)
 
 Quickly and easily create a pool of `go routines`. Create as many "queues" as you want, each with their own number of `go routines` ready to do your bidding.
 
